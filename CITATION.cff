@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+authors:
+- family-names: "Coscia"
+  given-names: "Adam"
+  orcid: "https://orcid.org/0000-0002-0429-9295"
+- family-names: "Endert"
+  given-names: "Alex"
+  orcid: "https://orcid.org/0000-0002-6914-610X"
+title: "VisPile: A Visual Analytics System for Analyzing Multiple Text Documents With Large Language Models and Knowledge Graphs"
+version: 0.1.0
+date-released: 2025-10-29
+url: "https://adamcoscia.com/papers/vispile/"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Coscia"
+    given-names: "Adam"
+    orcid: "https://orcid.org/0000-0002-0429-9295"
+  - family-names: "Endert"
+    given-names: "Alex"
+    orcid: "https://orcid.org/0000-0002-6914-610X"
+  url: "https://arxiv.org/abs/2510.09605"
+  collection-title: "Proceedings of the 59th Hawaii International Conference on System Sciences"
+  collection-type: proceedings
+  conference:
+    name: "HICSS-59"
+  title: "VisPile: A Visual Analytics System for Analyzing Multiple Text Documents With Large Language Models and Knowledge Graphs"
+  location:
+    name: "Lahaina, HI, USA"
+  year: 2026
